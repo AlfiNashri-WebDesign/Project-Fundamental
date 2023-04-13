@@ -34,13 +34,15 @@ cek di Laravel dipakai package.json
 "laravel-mix": "^6.0.6",
 
 kita harus update  versinya
+
 3. Ketik : composer update
 
 akan muncul nama folder vendor  Folder awal dari 412 kb jadi tambah vendor  jadi 38 mb
 Lakukan composer lagi
 
 4. Ketik : composer install
-baru source bisa jalan
+
+Baru source bisa jalan
 
 cek sekarang Laravel
 
