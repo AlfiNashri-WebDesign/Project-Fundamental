@@ -9,7 +9,7 @@ Laravel Project-Fundamental Sistem Informasi Sekolah
 Xampp harus aktif apache , di buka di Visual Studio Code
 
 Saat memulai buat baca source ini:
-Pertama-tama, kita perlu membuat file .env berdasarkan dari file env.example, caranya jalankan perintah:
+1. Pertama-tama, kita perlu membuat file .env berdasarkan dari file env.example, caranya jalankan perintah:
 Ketik :  copy .env.example .env   
 
 Hasilnya: nanti muncul .env  yg baru
