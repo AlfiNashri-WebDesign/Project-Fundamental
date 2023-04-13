@@ -17,6 +17,7 @@ Xampp dan aktif apache , File di buka di Visual Studio Code
 
 Saat memulai buat baca source ini:
 1. Pertama-tama, kita perlu membuat file .env berdasarkan dari file env.example, caranya jalankan perintah:
+
 Ketik :  copy .env.example .env   
 
 Hasilnya: nanti muncul .env  yg baru
