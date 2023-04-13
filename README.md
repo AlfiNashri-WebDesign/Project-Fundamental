@@ -25,7 +25,8 @@ Hasilnya: nanti muncul .env  yg baru
 2. Jalankan perintah berikut di dalam command prompt atau terminal:
 Ketik : composer install
 
-gagal
+Muncul Error di VS Code kamu:
+
 Problem 1
     - mongodb/mongodb is locked to version 1.12.0 and an update of this package was not requested
 Problem 2
