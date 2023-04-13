@@ -35,7 +35,8 @@ Lakukan composer lagi
 4. Ketik : composer install
 baru source bisa jalan
 
-cek sekarang Laravel<br>
+cek sekarang Laravel
+
 5. Ketik : php artisan –version
 hasilnya : dari laravel versi 6
 Laravel Framework 8.83.27
