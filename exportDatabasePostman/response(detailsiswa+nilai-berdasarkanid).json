@@ -1,0 +1,1 @@
+{"Data_Siswa":[{"_id":{"$oid":"63cbeb5fc685ae1cd5151d5d"},"id_siswa":"11","nama_siswa":"runi","alamat_siswa":"jalan pisang no 4","id_kelas":"002"}],"Nilai":[{"_id":{"$oid":"63cd307b0b032432b101920f"},"nilai":"85.6125"},{"_id":{"$oid":"63cd30bd0b032432b1019210"},"nilai":"83.425"},{"_id":{"$oid":"63cd30d30b032432b1019211"},"nilai":"81.8"}]}

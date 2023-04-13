@@ -1,0 +1,1 @@
+{"Kelas":[{"_id":{"$oid":"63cacd432ecfe56b330643f5"},"id_kelas":"003","nama_kelas":"10c","wali_kelas":"wanti"}],"Siswa":[{"_id":{"$oid":"63cbeb5fc685ae1cd5151d5e"},"nama_siswa":"sari"},{"_id":{"$oid":"63cbebdbc685ae1cd5151d60"},"nama_siswa":"yudi"}]}
