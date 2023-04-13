@@ -35,7 +35,7 @@ Lakukan composer lagi
 4. Ketik : composer install
 baru source bisa jalan
 
-cek sekarang Laravel
+cek sekarang Laravel<br>
 5. Ketik : php artisan –version
 hasilnya : dari laravel versi 6
 Laravel Framework 8.83.27
@@ -59,11 +59,3 @@ Berikutnya jalankan perintah berikut:
 Terakhir, untuk membukanya di web browser, jalankan perintah:
 9. Ketik : php artisan serve
 Lalu jalankan http://localhost:8000
-
-
-
-
-
-
-
-
