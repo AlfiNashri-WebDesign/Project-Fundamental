@@ -13,7 +13,7 @@ must be an enjoyable and creative experience to be truly fulfilling. Laravel tak
 easing common tasks used in many web projects
 
 Laravel Project-Fundamental Sistem Informasi Sekolah
-Xampp harus aktif apache , di buka di Visual Studio Code
+Xampp dan aktif apache , File di buka di Visual Studio Code
 
 Saat memulai buat baca source ini:
 1. Pertama-tama, kita perlu membuat file .env berdasarkan dari file env.example, caranya jalankan perintah:
@@ -57,6 +57,7 @@ Setelah berhasil membuat file .env, berikutnya jalankan perintah berikut:
 Perintah ini akan meng-generate keyuntuk dimasukkan ke APP_KEY di file .env
 Kemudian, jika aplikasi Laravel tersebut memiliki database, buatlah nama database baru. Lalu sesuaikan nama database, username, dan password database di file .env.
 Berikutnya jalankan perintah berikut:
+
 7. Ketik : php artisan migrate
 
 dia error krn masih mysql maka ubah ke mongodb dulu
@@ -65,8 +66,11 @@ Folder : Project-Fundamental/.env
 Folder : Project-Fundamental\config\database.php  Baris 92
 
 Berikutnya jalankan perintah berikut:
+
 8. Ketik : php artisan migrate
 
 Terakhir, untuk membukanya di web browser, jalankan perintah:
+
 9. Ketik : php artisan serve
-Lalu jalankan http://localhost:8000
+Lalu jalankan via browser, dan Xampp harus aktif
+http://localhost:8000
